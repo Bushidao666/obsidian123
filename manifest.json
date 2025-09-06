@@ -1,0 +1,11 @@
+{
+	"id": "projeto",
+	"name": "Furion AI Canvas Chat",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "AI-powered canvas chat with note connections and context awareness",
+	"author": "Furion Team",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}

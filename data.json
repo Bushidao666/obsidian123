@@ -1,0 +1,19 @@
+{
+  "aiProvider": "openai",
+  "openaiApiKey": "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",
+  "anthropicApiKey": "",
+  "customEndpoint": "",
+  "customApiKey": "",
+  "systemPrompt": "You are a helpful AI assistant integrated with Obsidian notes. Use the provided context to give relevant and accurate responses.",
+  "temperature": 0.7,
+  "maxTokens": 2000,
+  "contextLimit": 4000,
+  "enableHistory": true,
+  "maxHistoryMessages": 50,
+  "autoSaveHistory": true,
+  "historyRetentionDays": 30,
+  "enableStreaming": false,
+  "streamingIndicator": "typing",
+  "enableExport": true,
+  "exportFormat": "markdown"
+}
